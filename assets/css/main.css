@@ -2067,6 +2067,7 @@ section {
   color: var(--color-secondary);
   font-family: var(--font-secondary);
   margin-top: 3px;
+  line-height: 40px;
 }
 
 .footer .footer-content .footer-info p {
